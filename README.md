@@ -27,4 +27,4 @@ The steps for the solution are:
 
 # DOWNLOAD: 
 The entire solution procedure is explained in detail here: 
-[Download TUTORIAL](https://raw.githubusercontent.com/maktup/IMPLEMENTATION-OF-STANDARD-SOLUTION/blob/main/1.%20TUTORIAL/Tutorial_IWHI_Workflow_APIC.pdf)
+[Download TUTORIAL](https://raw.githubusercontent.com/maktup/IMPLEMENTATION-OF-STANDARD-SOLUTION/main/1.%20TUTORIAL/Tutorial_IWHI_Workflow_APIC.pdf)
